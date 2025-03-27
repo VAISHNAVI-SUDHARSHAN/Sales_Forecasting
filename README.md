@@ -96,9 +96,6 @@ Install the necessary dependencies using `pip`:
 pip install -r requirements.txt
 
 
-## Clone the repository:
-```bash
-git clone https://github.com/VAISHNAVI-SUDHARSHAN/sales_forecasting.git
 
 
 
