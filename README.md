@@ -77,6 +77,15 @@ The dataset consists of the following files:
 - **Statsmodels**: For ARIMA modeling.
 - **Matplotlib**, **Seaborn**: Data visualization.
 
+## 📫 Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- **Name:** Vaishnavi S 
+- **Email:** [vaishu4502@gmail.com](mailto:vaishu4502@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/vaishnavisudharshan/](https://www.linkedin.com/in/vaishnavisudharshan/)  
+- **GitHub:** [https://github.com/VAISHNAVI-SUDHARSHAN](https://github.com/VAISHNAVI-SUDHARSHAN)
+  
 ## How to Run the Project
 
 ### Requirements
@@ -88,5 +97,8 @@ pip install -r requirements.txt
 
 
 ## Clone the repository:
-   ```bash
-   git clone https://github.com/VAISHNAVI-SUDHARSHAN/sales_forecasting.git
+```bash
+git clone https://github.com/VAISHNAVI-SUDHARSHAN/sales_forecasting.git
+
+
+
